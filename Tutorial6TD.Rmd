@@ -1,0 +1,10 @@
+---
+title: "Tutorial6"
+author: "Thanh"
+date: "4/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
